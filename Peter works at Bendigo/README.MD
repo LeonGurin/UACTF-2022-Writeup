@@ -2,7 +2,7 @@
 
 Peter: "Welcome to Bendigo, I am Peter. How may I help you today?" Albert: "Hey! I have my bank card here, but I cannot seem to be able to read the credit card numbers on it as some of them are scratched off. I was wondering if you could tell me what they were if I could confirm my identity to you." Peter: "Ohh, unfortunatly I cannot do that. You are going to have to order a new credit card. If you requested one now, it should arrive by 2nd of August. Would you like me to do this for you?" Albert: "Hmm, unfortuately I need it sooner than that. I'll see if I can remember it in the mean time. THANKS PETER..." Peter: "See you!"
 
-![img1]()
+![img1](https://github.com/LeonGurin/UACTF-2022-Writeup/blob/main/Peter%20works%20at%20Bendigo/leaked.png)
 
 The flag is the bankcard number wrapped in UACTF{...}.
 
